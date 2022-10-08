@@ -13,7 +13,7 @@
           "detachFromLayout": true,
           "widgetId": "0",
           "topRow": 0,
-          "bottomRow": 5016,
+          "bottomRow": 680,
           "containerStyle": "none",
           "snapRows": 125,
           "parentRowSpace": 1,
@@ -25,59 +25,6 @@
           "dynamicBindingPathList": [],
           "leftColumn": 0,
           "children": [
-            {
-              "boxShadow": "none",
-              "widgetName": "Select1",
-              "isFilterable": true,
-              "displayName": "Select",
-              "iconSVG": "/static/media/icon.bd99caba.svg",
-              "labelText": "",
-              "topRow": 11,
-              "bottomRow": 15,
-              "parentRowSpace": 10,
-              "type": "SELECT_WIDGET",
-              "serverSideFiltering": false,
-              "hideCard": false,
-              "defaultOptionValue": "GREEN",
-              "animateLoading": true,
-              "parentColumnSpace": 11.765625,
-              "dynamicTriggerPathList": [],
-              "leftColumn": 22,
-              "dynamicBindingPathList": [
-                {
-                  "key": "accentColor"
-                }
-              ],
-              "options": [
-                {
-                  "label": "Blue",
-                  "value": "BLUE"
-                },
-                {
-                  "label": "Green",
-                  "value": "GREEN"
-                },
-                {
-                  "label": "Red",
-                  "value": "RED"
-                }
-              ],
-              "labelTextColor": "",
-              "placeholderText": "Select option",
-              "isDisabled": false,
-              "key": "u6ggpmkayg",
-              "labelTextSize": "0.875rem",
-              "isRequired": false,
-              "rightColumn": 42,
-              "widgetId": "eupuw2ow6f",
-              "accentColor": "{{appsmith.theme.colors.primaryColor}}",
-              "isVisible": true,
-              "version": 1,
-              "parentId": "0",
-              "renderMode": "CANVAS",
-              "isLoading": false,
-              "borderRadius": "0px"
-            },
             {
               "boxShadow": "none",
               "widgetName": "Table1",
