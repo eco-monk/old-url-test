@@ -2,6 +2,7 @@
   "unpublishedPage": {
     "name": "Page23",
     "slug": "page23",
+    "customSlug": "cuts",
     "layouts": [
       {
         "viewMode": false,
