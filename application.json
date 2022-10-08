@@ -1,8 +1,12 @@
 {
   "pages": [
     {
-      "id": "Page1",
+      "id": "Page12",
       "isDefault": true
+    },
+    {
+      "id": "Page23",
+      "isDefault": false
     }
   ],
   "viewMode": false,
@@ -11,7 +15,7 @@
   "color": "#CCCCCC",
   "icon": "earth",
   "evaluationVersion": 2,
-  "applicationVersion": 1,
+  "applicationVersion": 2,
   "isManualUpdate": false,
   "deleted": false
 }
